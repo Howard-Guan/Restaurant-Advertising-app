@@ -1,2 +1,2 @@
-#To View live demo please visit https://vercel.com/howard-guan/restaurant-advertising-app
+#To View live demo please visit https://restaurant-advertising-app.vercel.app/
 
